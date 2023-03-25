@@ -5,9 +5,12 @@ Subscribe to our YouTube channel to watch tutorials @AIADARCK
 
 Teaching this topic | AIA DARCK
 1) Log in to your Linux server control panel
-2) Download these two data files on your server with the command:
-   wget https://github.com
-   wget https://github.com
+2) Download these two data files on your server In this folder 
+cd /usr/local/x-ui/bin 
+  command:
+  wget https://github.com/AIADARCK/Webblock/blob/main/dlc.dat
+  wget https://github.com/AIADARCK/Webblock/blob/main/iran.dat
+
 Well, the work is done so far
 3) Now enter your X-ui panel and enter the section below
    Settings > Xray Configuration
